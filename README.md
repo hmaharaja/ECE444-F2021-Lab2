@@ -23,7 +23,10 @@ Part 2:
 Part 3:
 ![lab2_part4-3](https://user-images.githubusercontent.com/46762242/134819512-a34fd9c9-32c3-4eb9-99bb-c4a14e6feeeb.JPG)
 
+
 Part 4:
+
+
 ![lab2_part4-4](https://user-images.githubusercontent.com/46762242/134819568-2814d240-df1f-4180-9c11-8c3a1659fb8a.JPG)
 
 
